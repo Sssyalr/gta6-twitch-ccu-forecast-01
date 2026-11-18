@@ -55,4 +55,4 @@ one `<id>.out` per case to `$MAKEFUN_OUTPUT_DIR` (else `/output`).
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash prizes</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=46z2yf1z&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash prizes</sub>
